@@ -6,7 +6,7 @@ Si deve cioe' poterlo installare:
 
 - senza usare la password di amministratore; 
 - senza poter configurare variabili di sistema; 
-- non potendo usare della Power Shell; 
+- non potendo usare la Power Shell; 
 - senza poter creare link simbolici (=mklink=); 
 - senza la possibilita' di usare il sottosistema Linux per Windows (WSL).
 
