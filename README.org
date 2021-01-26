@@ -1,3 +1,4 @@
+ ** istruzioni
  
 - Scaricare la versione per windows di Emacs (portable): =emacs-27.1-x86_64.zip= dal sito https://www.gnu.org/software/emacs/download.html [per esempio http://mirror.inode.at/gnu/emacs/windows/emacs-27/emacs-27.1-x86_64.zip].
 - Scaricare questo repository in formato .zip, da qualche parte (p.es. =c:\tmp=).
@@ -10,3 +11,9 @@
 - (aggiugnere la variabile HOME=d:\home tra le variabili dell'utente)
 - (inserire nell'avvio automatico di Windows il file batch "emacs--daemon.bat" per avere sempre attivo il server)
 - (se si e' fatto il passo precedente: associare al file batch "emacsclient.bat" le estensioni dei file di testo che si vogliono editare con Emacs p.es. .txt, .org, .org etc.)
+
+** grazie a 
+- Jean-Philippe Theberge per =lorem-ipsum.el --- Insert dummy pseudo Latin text.=
+- Bastien / @bzg2 / https://bzg.fr per An introduction to Emacs Lisp in 15 minutes (https://learnxinyminutes.com/docs/elisp/)
+- Exedre
+- Giupo
