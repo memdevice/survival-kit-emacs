@@ -1,8 +1,16 @@
 ** info
 
-Questo progetto nasce per ottenere un Emacs correttamente funzionante, configurabile e con interfaccia grafica, su un computer Windows 10 con pesanti limitazioni. Si deve poterlo installare senza usare la password di amministratore, senza poter configurare variabili di sistema, non avendo l'uso della Power Shell, senza poter creare link simbolici e senza la possibilita' di usare il sottosistema Linux per Windows (WSL).
+Questo progetto nasce per ottenere un Emacs correttamente funzionante, configurabile e con interfaccia grafica, su un computer Windows 10 con pesanti limitazioni. 
 
-La alternativa ragionevole e praticabile di installare Cygwin e utilizzare la versione di Emacs li' presente e' stata scartata per ragioni di prestazioni e per la difficolta' di accedere al filesystem con path uguali a quelli di Windows.
+Si deve cioe' poterlo installare: 
+
+- senza usare la password di amministratore; 
+- senza poter configurare variabili di sistema; 
+- non potendo usare della Power Shell; 
+- senza poter creare link simbolici (=mklink=); 
+- senza la possibilita' di usare il sottosistema Linux per Windows (WSL).
+
+La alternativa ragionevole e praticabile di installare Cygwin e utilizzare la versione di Emacs presente nella distribuzione e' stata scartata per ragioni di prestazioni e per la maggiore difficolta' di accedere al filesystem con path uguali a quelli di Windows.
 
 Questa configurazione - non potendo far di meglio - prevede di collocare sul disco =C:= gli eseguibili di Emacs e sul disco =D:= i file di configurazione nella directory =d:\home=, dove sara' collocata anche la gran parte dei file di testo da /visitare/ con Emacs.
 
