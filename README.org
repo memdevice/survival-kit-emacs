@@ -1,7 +1,7 @@
  
 - Scaricare la versione per windows di Emacs (portable): =emacs-27.1-x86_64.zip= dal sito https://www.gnu.org/software/emacs/download.html [per esempio http://mirror.inode.at/gnu/emacs/windows/emacs-27/emacs-27.1-x86_64.zip].
-- Scaricare questo repository in formato .zip, da qualche parte.
-- lanciare il batch config-dir.bat.
+- Scaricare questo repository in formato .zip, da qualche parte (p.es. =c:\tmp=).
+- lanciare il batch =config-dir.bat=.
 - Unzippare il file emacs-27.1-x86_64.zip in c:\emacs, facendogli creare la sottodirectory proposta (emacs-27.1-x86_64).
 - copiare la directory '.emacs.d' del repository in d:\home
 - copiare tutti i file batch "emacs*.bat" in c:\emacs\emacs-27.1-x86_64
