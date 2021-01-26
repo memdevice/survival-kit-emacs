@@ -1,15 +1,18 @@
-/Dove si racconta di che cosa ci si prefiggeva di ottenere, e si precisa anche che "requisiti" si riferisce sia ai desiderata dell'utente, sia alla sua condizione di cattivita'./
+/Dove si racconta di che cosa ci si prefiggeva di ottenere; e si precisa anche che "requisiti" si riferisce sia ai desiderata dell'utente, sia alla sua condizione di cattivita'./
 
 
 - GPG integration
 - GNU command integration (find, grep etc.)
+= cygwin BASH as default inferior shell
 - home directory "~/"
 
 
-Quello che sto facendo e’  mettere Emacs in grado di funzionare sugli "elaboratori dell'Istituto" (1), estenderne le funzionalita’ per risolvere diversi problemi accessorii (2). Finora ho lavorato sul primo punto, ma a breve spero di potermi spostare al secondo. [in grassetto i punti gia’ risolti]
+Quello che sto facendo e’  mettere Emacs in grado di funzionare sugli "elaboratori dell'Istituto" (1), estenderne le funzionalita’ per risolvere diversi problemi accessorii (2). 
+
+Finora ho lavorato sul primo punto, ma a breve spero di potermi spostare al secondo. 
 
 Prima parte:
--	installazione di Emacs per Windows 10, senza usare la password di administrator;
+- installazione di Emacs per Windows 10, senza usare la password di administrator;
 -	configurazione corretta di Emacs per il sistema operativo (e il kit BI);
 -	configurazione dell’ambiente di lavoro per Emacs (d:/home etc.)
 -	acquisizione dei file di configurazione standard (da GitHub);
