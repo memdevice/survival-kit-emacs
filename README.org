@@ -26,14 +26,14 @@ Purtroppo, date le limitazioni di cui sopra - e per altre che per carita' di Pat
 - Scaricare la versione per windows di Emacs (portable): =emacs-27.1-x86_64.zip= dal sito https://www.gnu.org/software/emacs/download.html [per esempio http://mirror.inode.at/gnu/emacs/windows/emacs-27/emacs-27.1-x86_64.zip]
 - Scaricare questo repository in formato .zip, da qualche parte (p.es. =c:\tmp=)
 - lanciare il batch =config-dir.bat= e poi il batch =runme.bat=, se presente
-- Unzippare il file emacs-27.1-x86_64.zip in c:\emacs, facendogli creare la sottodirectory proposta (emacs-27.1-x86_64).
-- copiare la directory '.emacs.d' del repository in d:\home
-- copiare tutti i file batch "emacs*.bat" in c:\emacs\emacs-27.1-x86_64
-- creare, almeno per emacs.bat uno shortcut di avvio sul desktop
-- (modificare l'icona di questo shortcut utilizzando quella di emacs in c:\emacs\emacs-27.1-x86_64\share\icons\hicolor\scalable\apps\emacs.ico)
-- (aggiugnere la variabile HOME=d:\home tra le variabili dell'utente)
-- (inserire nell'avvio automatico di Windows il file batch "emacs--daemon.bat" per avere sempre attivo il server)
-- (se si e' fatto il passo precedente: associare al file batch "emacsclient.bat" le estensioni dei file di testo che si vogliono editare con Emacs p.es. .txt, .org, .org etc.)
+- Unzippare il file =emacs-27.1-x86_64.zip= in =c:\emacs=, facendogli creare la sottodirectory proposta (=emacs-27.1-x86_64=).
+- copiare la directory '.emacs.d' del repository in =d:\home=
+- copiare tutti i file batch =emacs*.bat= nella cartella =\.emacs.d\bat= in =c:\emacs\emacs-27.1-x86_64=
+- creare, almeno per =emacs.bat= uno shortcut di avvio sul desktop
+- (modificare l'icona di questo shortcut utilizzando quella di emacs in =c:\emacs\emacs-27.1-x86_64\share\icons\hicolor\scalable\apps\emacs.ico=)
+- (aggiugnere la variabile =HOME=d:\home- tra le variabili dell'utente)
+- (inserire nell'avvio automatico di Windows il file batch =emacs--daemon.bat= per avere sempre attivo il server)
+- (se si e' fatto il passo precedente: associare al file batch =emacsclient.bat= le estensioni dei file di testo che si vogliono editare con Emacs p.es. .txt, .org, .org etc.)
 
 ** grazie a 
 - Jean-Philippe Theberge per =lorem-ipsum.el --- Insert dummy pseudo Latin text.=
