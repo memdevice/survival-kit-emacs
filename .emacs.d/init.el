@@ -1,3 +1,35 @@
+;;; @(#) init.el -- emacs 27 windows 10  configuration survival kit  
+;;; @(#) $Id$
+
+;;;;  | 20210126 |
+
+;; This file is not part of Emacs
+
+;; Copyright (C) 2021 by Luca Missori
+;; Author:          Luca Missori (mem.device@gmail.com)
+;; Maintainer:      Luca Missori (mem.device@gmail.com
+;; Created:         January 26, 2021
+;; Keywords:        init config file
+;; Latest Version:
+
+;; COPYRIGHT NOTICE
+
+;; This program is free software; you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by
+;; the Free Software Foundation; either version 2, or (at your option)
+;; any later version.
+
+;; This program is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;; GNU General Public License for more details.
+
+;; You should have received a copy of the GNU General Public License
+;; along with this program; see the file COPYING.  If not, write to the
+;; Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+;; Boston, MA 02111-1307, USA.
+
+
 ;; LM:________________________________________________________________
 ;;
 ;;     architettura del file system
