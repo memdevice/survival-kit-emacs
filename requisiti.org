@@ -1,0 +1,6 @@
+/Dove si racconta di che cosa ci si prefiggeva di ottenere, e si precisa che "requisiti" si riferisce tanto ai desiderata dell'utente che alla sua condizione di cattivita'./
+
+
+- GPG integration
+- GNU command integration (find, grep etc.)
+- home directory "~/"
