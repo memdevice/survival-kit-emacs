@@ -1,4 +1,4 @@
-/Dove si racconta di che cosa ci si prefiggeva di ottenere, e si precisa che "requisiti" si riferisce tanto ai desiderata dell'utente che alla sua condizione di cattivita'./
+/Dove si racconta di che cosa ci si prefiggeva di ottenere, e si precisa anche che "requisiti" si riferisce sia ai desiderata dell'utente, sia alla sua condizione di cattivita'./
 
 
 - GPG integration
