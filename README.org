@@ -1,4 +1,14 @@
- ** istruzioni
+** info
+
+Questo progetto nasce per ottenere un Emacs correttamente funzionante, configurabile e con interfaccia grafica, su un computer Windows 10 con pesanti limitazioni. Si deve poterlo installare senza usare la password di amministratore, senza poter configurare variabili di sistema, non avendo la Power Shell e senza la possibilita' di usare il sottosistema Linux per Windows (WSL).
+
+La alternativa ragionevole: installare Cygwin e utilizzare la versione di Emacs presente e' stata scartata per ragioni di prestazioni e per la maggiore difficolta' di accedere al filesystem con path uguali a quelli di Windows.
+
+Questa configurazione, non potendo far di meglio, prevede di collocare sul disco =C:= gli eseguibili di Emacs e sul disco =D:= i file di configurazione nella directory d:\home, dove sara' collocata anche la gran parte dei file di testo da /visitare/ con Emacs.
+
+L'installazione, descritta sotto, prevede soltanto di "unzippare" l'ultima versione di Emacs compilata per Windows ed aggiungere i file di configurazione e i batch di avvio, presenti in questo repository. Purtroppo, date le limitazioni di cui sopra, ed altre che per carita' di Patria e' opportuno tacere qui, alcuni passaggi manuali e a carico dell'utente sono al momento necessarii.
+
+** istruzioni
  
 - Scaricare la versione per windows di Emacs (portable): =emacs-27.1-x86_64.zip= dal sito https://www.gnu.org/software/emacs/download.html [per esempio http://mirror.inode.at/gnu/emacs/windows/emacs-27/emacs-27.1-x86_64.zip].
 - Scaricare questo repository in formato .zip, da qualche parte (p.es. =c:\tmp=).
