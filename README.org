@@ -8,7 +8,8 @@ Si deve cioe' poterlo installare:
 - senza poter configurare variabili di sistema; 
 - non potendo usare la Power Shell; 
 - senza poter creare link simbolici (=mklink=); 
-- senza la possibilita' di usare il sottosistema Linux per Windows (WSL).
+- senza la possibilita' di usare il sottosistema Linux per Windows (WSL);
+- senza poter utilizzare /http proxy/ o l'accesso diretto ad Internet da Emacs.
 
 La alternativa ragionevole e praticabile di installare Cygwin e utilizzare la versione di Emacs presente nella distribuzione e' stata scartata per ragioni di prestazioni e per la maggiore difficolta' di accedere al filesystem con path uguali a quelli di Windows.
 
