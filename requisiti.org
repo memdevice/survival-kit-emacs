@@ -3,7 +3,7 @@
 
 - GPG integration
 - GNU command integration (find, grep etc.)
-= cygwin BASH as default inferior shell
+- cygwin BASH as default inferior shell
 - home directory "~/"
 
 
