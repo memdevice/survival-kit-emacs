@@ -2,6 +2,7 @@ mkdir c:\emacs
 mkdir c:\cygwin64
 mkdir c:\lm
 mkdir c:\lm\software
+mkdir c:\lm\tmp
 mkdir d:\home
 mkdir d:\home\.backup\emacs
 mkdir d:\home\.emacs.d
