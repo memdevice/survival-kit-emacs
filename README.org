@@ -31,7 +31,7 @@ Purtroppo, date le limitazioni di cui sopra - e per altre che per carita' di Pat
 - copiare tutti i file batch =emacs*.bat= nella cartella =\.emacs.d\bat= in =c:\emacs\emacs-27.1-x86_64=
 - creare, almeno per =emacs.bat= uno shortcut di avvio sul desktop
 - (modificare l'icona di questo shortcut utilizzando quella di emacs in =c:\emacs\emacs-27.1-x86_64\share\icons\hicolor\scalable\apps\emacs.ico=)
-- (aggiugnere la variabile =HOME=d:\home- tra le variabili dell'utente)
+- (aggiugnere la variabile =HOME\=d:\home- tra le variabili dell'utente=)
 - (inserire nell'avvio automatico di Windows il file batch =emacs--daemon.bat= per avere sempre attivo il server)
 - (se si e' fatto il passo precedente: associare al file batch =emacsclient.bat= le estensioni dei file di testo che si vogliono editare con Emacs p.es. .txt, .org, .org etc.)
 
