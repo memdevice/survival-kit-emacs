@@ -1,7 +1,7 @@
-;;; @(#) init.el -- emacs 27 windows 10  configuration survival kit  
+;;; @(#) init.el -- emacs 27 windows 10 configuration survival kit  
 ;;; @(#) $Id$
 
-;;;;  | 20210126 |
+;;;;  | 20210209 |
 
 ;; This file is not part of Emacs
 
@@ -141,11 +141,11 @@
 ;; LM: usare la bash di cygwin
 ;; da: https://www.masteringemacs.org/article/running-shells-in-emacs-overview
 ;;
-(setq explicit-shell-file-name "c:/cygwin64/bin/bash.exe")
-(setq shell-file-name "bash")
-(setq explicit-bash.exe-args '("--noediting" "--login" "-i"))
-(setenv "SHELL" shell-file-name)
-(add-hook 'comint-output-filter-functions 'comint-strip-ctrl-m)
+;; (setq explicit-shell-file-name "c:/cygwin64/bin/bash.exe")
+;; (setq shell-file-name "bash")
+;; (setq explicit-bash.exe-args '("--noediting" "--login" "-i"))
+;; (setenv "SHELL" shell-file-name)
+;; (add-hook 'comint-output-filter-functions 'comint-strip-ctrl-m)
 
 ;; Supply a random fortune cookie as the *scratch* message.
 ;; (using internal function.el...)
