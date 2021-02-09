@@ -156,3 +156,4 @@
            (let ((comment-start ";;"))
              (comment-region (point-min) (point-max)))
            (concat (buffer-string) "\n"))))
+ 
