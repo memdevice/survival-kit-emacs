@@ -17,7 +17,7 @@ Questa configurazione - non potendo far di meglio - prevede di collocare sul dis
 
 L'installazione, descritta piu' sotto, prevede soltanto di "unzippare" l'ultima versione di Emacs compilata per Windows (cfr. ) ed aggiungere poi i file di configurazione e i batch di avvio, presi in questo repository. Per la creazione delle directory corrette e' presente un batch di installazione, da lanciare una volta soltanto. 
 
-Purtroppo, date le limitazioni di cui sopra - e per altre che per carita' di Patria e' opportuno tacere, alcuni passaggi manuali e a carico dell'utente sono ancora, al momento, richiesti.
+Purtroppo, date le limitazioni di cui sopra - e per altre che per carita' di Patria e' opportuno tacere - alcuni passaggi manuali e a carico dell'utente sono ancora, al momento, richiesti.
 
 /l.m./
 
