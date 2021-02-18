@@ -6,15 +6,15 @@ GNU Emacs 27.1 (build 1, x86_64-w64-mingw32) of 2020-08-21
 ** modifiche della configurazione standard
 
 - disabilitato il messaggio di avvio (quello con l'immagine dello gnu)
-- disabilitata la barra delle icone (tool bar) e la barra verticale di scorrimento (scroll bar)
-- lasciata la barra dei menu. ma inserito codice commentato per rimuovere anche quella
+- disabilitata la barra delle icone (/tool bar/) e la barra verticale di scorrimento (/scroll bar/)
+- lasciata la barra dei menu ma inserito codice commentato per rimuovere anche quella
 - aggiunto il numero di colonna, accanto al numero di riga, nella /mode line/
 - attivata la visualizzazione in risalto della linea corrente (=global-hl-line-mod=)
-- modificato il titolo della finestra (frame) inserendovi il nome dell'utente
-- abbreviato le risposte nel minibuffer da yes/no a y/n
+- modificato il titolo della finestra (in Emacs il /frame/) inserendovi il nome dell'utente
+- abbreviato le risposte nel minibuffer da =yes/no= a =y/n=
 - attivato la rimozione al salvataggio degli spazii a fine riga (=delete-trailing-whitespace=)
-- impostato la riga standard per il fill-column a 72 caratteri (=M-q=)
-- attivato le parentesi automatiche (=electric-pair-mode=) che inseriscono automaticamente la parentesi chiusa, digitando quella aperta
+- impostato la riga standard per il =fill-column= a 72 caratteri (si applica con =M-q=)
+- attivato le parentesi "elettriche" (=electric-pair-mode=) che inseriscono automaticamente anche la parentesi chiusa, digitando quella aperta e spostano il cursore tra le due
 - attivato il /package/ =lorem-ipsum= per la generazione di testi di prova (=C-c l p/s/l=)
 - abilitato il (=view-mode=) associato alla modalità di sola lettura dei file (=C-c C-q=)
 
