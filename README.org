@@ -34,6 +34,8 @@ Purtroppo, date le limitazioni di cui sopra - e per altre che per carita' di Pat
 - (aggiugnere la variabile =HOME=d:\home- tra le variabili dell'utente=)
 - (inserire nell'avvio automatico di Windows il file batch =emacs--daemon.bat= per avere sempre attivo il server)
 - (se si e' fatto il passo precedente: associare al file batch =emacsclient.bat= le estensioni dei file di testo che si vogliono editare con Emacs p.es. .txt, .org, .org etc.)
+- configurare via menu Options i font di default (Consolas 12pt) ed il tema di default (leuven); queste opzioni verranno salvate nel file =config-file.el=, se prima di chiudere Emacs si seleziona "Save Options". 
+- opzionalmente attivare anche il CUA mode sempre dallo stesso menu
 
 ** grazie a 
 - Jean-Philippe Theberge per =lorem-ipsum.el --- Insert dummy pseudo Latin text.=
