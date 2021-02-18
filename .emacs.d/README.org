@@ -28,7 +28,7 @@ GNU Emacs 27.1 (build 1, x86_64-w64-mingw32) of 2020-08-21
 
 Non più necessarii:
 
-- attivato il dialogo tra la clipoard di Emacs (/kill\/yank/) e quella di Windows (/X clipoboard/)
+- attivato il dialogo tra la clipoard di Emacs (/kill/yank/) e quella di Windows (/X clipoboard/)
 
 
 
