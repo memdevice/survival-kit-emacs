@@ -1,6 +1,6 @@
 ** info
 
-Questo progetto nasce per ottenere un Emacs correttamente funzionante, configurabile e con interfaccia grafica, su un computer Windows 10 con pesanti limitazioni. 
+Questo progetto nasce per ottenere un Emacs correttamente funzionante, configurabile e con interfaccia grafica, su un computer Windows 10 dell'Istituto, ovvero con "pesanti limitazioni". 
 
 Si deve cioe' poterlo installare: 
 
