@@ -1,3 +1,5 @@
+/To improve the use of proprietary systems is a misguided goal. Our aim, rather, is to eliminate them. We include support for some proprietary systems in GNU Emacs in the hope that running Emacs on them will give users a taste of freedom and thus lead them to free themselves./
+
 ** info
 
 Questo progetto nasce per ottenere un Emacs correttamente funzionante, configurabile e con interfaccia grafica, su un computer Windows 10 dell'Istituto, ovvero con "pesanti limitazioni". 
